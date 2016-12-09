@@ -3,7 +3,8 @@
 #### TypeScript
 
 > launch.json
-```json
+
+```js
 {
     "version": "0.2.0",
     "configurations": [
@@ -32,7 +33,8 @@
 ```
 
 > tasks.json
-```json
+
+```js
 {
     "version": "0.1.0",
     "command": "npm",
