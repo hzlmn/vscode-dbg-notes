@@ -2,7 +2,7 @@
 
 #### TypeScript
 
-> launch.json
+`launch.json`
 
 ```js
 {
@@ -32,7 +32,7 @@
 
 ```
 
-> tasks.json
+`tasks.json`
 
 ```js
 {
